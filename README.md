@@ -12,7 +12,7 @@ A Python-based **port scanner** that checks for open ports and displays results 
 ## 🛠️ Installation  
 1. **Clone the repository**  
 ```sh
-git clone https://github.com/YOUR-USERNAME/port-scanner.git
+git clone https://github.com/dmuf/port-scanner.git
 ```
 2. **Navigate to the project folder**  
 ```sh
