@@ -1,3 +1,4 @@
+
 # Port Scanner 🚀  
 
 A Python-based **port scanner** that checks for open ports and displays results with color-coded output.  
@@ -12,21 +13,21 @@ A Python-based **port scanner** that checks for open ports and displays results 
 1. **Clone the repository**  
 ```sh
 git clone https://github.com/YOUR-USERNAME/port-scanner.git
-Navigate to the project folder
-
-sh
-Copy
-Edit
+```
+2. **Navigate to the project folder**  
+```sh
 cd port-scanner
-Install dependencies
-
-sh
-Copy
-Edit
+```
+3. **Install dependencies**  
+```sh
 pip install -r requirements.txt
-Run the scanner
-
-sh
-Copy
-Edit
+```
+4. **Run the scanner**  
+```sh
 python port_scanner.py
+```
+
+## 📝 License  
+This project is licensed under the MIT License.  
+
+
